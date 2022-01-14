@@ -22,4 +22,4 @@ _My Seminar Presentation : 27/10/2021._
 <img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S14.PNG" width="650" height="300"><br><br>
 <img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S15.PNG" width="650" height="300"><br><br>
 <img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S16.PNG" width="650" height="300"><br><br>
-<img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S17.PNG" width="350"><br><br>
+<img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S17.PNG" width="350" height="150"><br><br>
