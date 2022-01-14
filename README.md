@@ -6,7 +6,7 @@
 _My Seminar Presentation : 27/10/2021._
 
 <br>
-<img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S1.jpg" width="650"><br><br>
+<img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S1.jpg" width="650" height="400"><br><br>
 <img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S2.PNG" width="650"><br><br>
 <img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S3.PNG" width="650"><br><br>
 <img src="https://github.com/Godson-Thomas/Quantum-Computer/blob/master/S4.PNG" width="650"><br><br>
